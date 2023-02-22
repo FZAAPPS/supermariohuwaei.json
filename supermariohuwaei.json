@@ -1,10 +1,10 @@
 {
   "AdsController": {
-    "adNetwork": "unity",
+    "adNetwork": "applovin",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "applovinBanner": "16cb520e5",
-    "applovinInterstitial": "16cb520e5",
+    "applovinBanner": "7a9a3f88f47397e0",
+    "applovinInterstitial": "8016bc960497d58c",
     "unityGameId": "5171906",
     "testMode": true,
     "unityBanner": "Super_Mariu_3D_World_",
